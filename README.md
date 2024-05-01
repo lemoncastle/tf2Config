@@ -1,5 +1,5 @@
-# tf2Config
-
+# lemoncastle's config
+updated 4/30/24
 medic cfg and class cfg's are based on woolen sleevelets config
 
 Master Comfig V9.10.1 - September 24,2022 
