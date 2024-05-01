@@ -1,5 +1,6 @@
 # lemoncastle's config
-updated 4/30/24
+updated 4/30/24 - I currently have 1137 hours in tf2 
+
 medic cfg and class cfg's are based on woolen sleevelets config
 
 Master Comfig V9.10.1 - September 24,2022 
