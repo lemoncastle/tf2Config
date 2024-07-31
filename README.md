@@ -1,7 +1,7 @@
 # lemoncastle's config
-updated 4/30/24 - I currently have 1137 hours in tf2 
+Updated 4/30/24 - I currently have 1137 hours in tf2 
 
-medic cfg and class cfg's are based on woolen sleevelets config
+Class configs based on [a Woolen Sleevelet's](https://www.youtube.com/watch?v=cRGW4a1K_Io) config (found in /cfg/overrides/)
 
 Master Comfig V9.10.1 - September 24,2022 
 
@@ -37,4 +37,5 @@ Master Comfig V9.10.1 - September 24,2022
 		"fieldName"			"ServerTimeLimitLabelBG"
 		"xpos"				"9999"
 	}
-asdasdasdasd
+
+hi

@@ -1,0 +1,1 @@
+-novid -nosteamcontroller -nohltv -nojoy -dxlevel 90 -console -noquicktime -particles 1 -precachefontchars
