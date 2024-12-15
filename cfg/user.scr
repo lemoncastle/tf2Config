@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Mon Nov 20 16:09:45 AM
+// File generated:  Mon Jun  3 18:36:12 AM
 //
 //
 // Cvar	-	Setting
@@ -393,7 +393,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_viewmodelfov_option"
 		"#Tooltip_viewmodelfov_option"
 		{ SLIDER 54 70 }
-		{ "70" }
+		{ "90" }
 	}
 
 	"tf_spectator_target_location"
@@ -513,7 +513,7 @@ DESCRIPTION INFO_OPTIONS
 	{
 		"#TF_ScoreBoard_MouseMode"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"tf_scoreboard_ping_as_text"
