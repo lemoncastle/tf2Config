@@ -1,7 +1,4 @@
-# lemoncastle's config
-- Updated 4/30/24 - I currently have 1137 hours in tf2 (initial commits)
-- Updated 7/31/24 - I currently have 1283 hours in tf2 (changes to cfg and crosshairs)
-- Updated 12/15/24 - I currently have 1355 hours in tf2 (flat textures and crosshair sizes)
+# TFconfig
 
 Class configs based on [a Woolen Sleevelet's](https://www.youtube.com/watch?v=cRGW4a1K_Io) config (found in /cfg/overrides/)
 
@@ -41,10 +38,7 @@ Master Comfig V9.10.1 - September 24,2022
 	}
 ### Notes
 - I played pyro for [Highlander Gaming](https://rgl.gg/Public/Team?t=12551&r=24) So I messed with the config a bit.
-- I didn't like any of the crosshairs on cfg.tf or any other ones so I decided to make my own. I followed [this](https://www.teamfortress.tv/37767/how-to-make-vtf-crosshairs) guide on how to do it and they turned out pretty good.
-- I'm only using them on scout,pyro,engineer as those are the only classes I play right now.
-- Reorganized class cfg's  to make them look nice. that's about it.
-- Replaced killsound to the krunker headshot killsound - edited slightly
-- Playing another season of RGL (subbing -can't play defaults :0 )
-- Season concluded 4-4, didn't scrim as much as I wanted :/
-- updated crosshairs again and killsound was volume cut by ~5db
+- I made my own crosshairs. I followed [this](https://www.teamfortress.tv/37767/how-to-make-vtf-crosshairs) guide on how to do it. they turned out alright.
+- Custom crosshairs for scout, pyro, and engineer
+- Kill sound is krunker headshot kill sound.
+- Explosions were replaced with eotl_pyro_pool_explosion_flash from [tf.tv](https://www.teamfortress.tv/25647) thread
